@@ -1,2 +1,2 @@
-# 1-pamoka
+# 1SD
 1 pamoka
